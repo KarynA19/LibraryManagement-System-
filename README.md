@@ -53,7 +53,15 @@ The system supports both **subscribers** and **librarians**, providing efficient
 ### 🔄 Automation
 - **Triggers** – log actions, update availability, enforce penalties.  
 - **Events** – daily tasks: unfreeze subscribers, detect late returns, cancel overdue reservations.  
-- **Procedures** – handle lost books, extend loans, send notifications, generate reports.  
+- **Procedures** – handle lost books, extend loans, send notifications, generate reports.
+
+## 🎥 Demo Video
+
+Here is a short demo of the project: 
+
+[![Watch the video](<img width="222" height="50" alt="image" src="https://github.com/user-attachments/assets/594c093e-1a90-4e62-b7fa-58042c52979b" />
+)](https://drive.google.com/file/d/1p1zGpuw-pF9XiOnvViJ-uwLJmvhnpv9d/view?usp=sharing)
+
 
 
 
@@ -77,6 +85,8 @@ Aa123456
 # Open ClientUI.java → Right-click → Run Java
 # When prompted, enter:
 localhost
+
+
 
 
 
